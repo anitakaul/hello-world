@@ -19,7 +19,7 @@ What is your major?
 Computer Science
 
 Output:
-Good luck with your Computer Science, Anita!
+Good luck with your Computer Science major, Anita!
 
 ## Contributing
 
